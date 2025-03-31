@@ -1,6 +1,6 @@
 # 🛠️ Glassforge
 
-**Glassforge** is a CLI-first, context-aware development framework for building digital minds like [Blackglass](https://github.com/your-blackglass-repo).  
+**Glassforge** is a CLI-first, context-aware development framework for building digital minds like [Blackglass](https://github.com/jonhill90/blackglass).  
 It helps humans and AI collaborate intelligently by tracking development state—so the process of building an agent becomes structured, transparent, and learnable.
 
 ---
