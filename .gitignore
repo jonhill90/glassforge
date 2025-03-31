@@ -1,0 +1,22 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# MCP state
+client_mcp.json
+
+# Virtual environments
+.env/
+.venv/
+
+# Python environment files
+.env
+*.env
+
+# Docker artifacts
+*.log
+*.pid
+
+# VS Code
+.vscode/
