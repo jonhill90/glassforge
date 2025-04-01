@@ -1,7 +1,0 @@
-openai
-anthropic
-python-dotenv
-requests
-rich
-tqdm
-typer

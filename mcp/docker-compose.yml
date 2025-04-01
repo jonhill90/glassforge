@@ -1,0 +1,8 @@
+services:
+  glassforge-agent:
+    build: .
+    environment:
+      - OPENAI_API_KEY=${OPENAI_API_KEY}
+    volumes:
+      - .:/workspace/mcp
+    working_dir: /workspace/mcp
